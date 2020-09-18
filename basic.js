@@ -97,6 +97,7 @@ var longString = "Properties,$a$set$of$immutable$values,$are$passed$to$a$compone
 
 var sentence = (longString.split(["$"]).join(" "));
 console.log(sentence);
+// oder solution is replace
 
 
 // Extra Excercise One:
